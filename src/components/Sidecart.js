@@ -14,17 +14,17 @@ function Sidecart(props) {
             <div className="mt-3">
               <h6 className="text-uppercase">{item.title}</h6>
               <h6 className="text-title text-capitalize">
-                amount: {item.count}
+                Amount: {item.count}
               </h6>
             </div>
           </li>
         ))}
       </ul>
       <h4 className="text-capitalize text-main">
-        cart total: ${props.cartTotal}
+        Total price: ${props.cartTotal}
       </h4>
       <div className="text-center my-5">
-        <Link to="/cart" className="main-link">
+        <Link to="/store/cart" className="main-link">
           cart page
         </Link>
       </div>

@@ -9,7 +9,7 @@ function Footer({ socialLinks }) {
         <div className="row">
           <div className="col-md-6">
             <p className="text-capitalize">
-              copyright &copy; tech shop {new Date().getFullYear()}. all rights
+              copyright &copy; shop {new Date().getFullYear()}. all rights
               reserved
             </p>
           </div>
