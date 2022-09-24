@@ -8,7 +8,7 @@ export default function Default() {
     <React.Fragment>
       <Hero img={defaultBcg} title={404} max={true}>
         <h2 className="text-uppercase">page not found</h2>
-        <Link to="/" className="main-link mt-4">
+        <Link to="/store" className="main-link mt-4">
           return home
         </Link>
       </Hero>

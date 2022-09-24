@@ -16,7 +16,7 @@ function Product({ product, onCart, onSingle }) {
           />
           <div className="product-icons">
             <Link
-              to={`/products/${product.id}`}
+              to={`/store/products/${product.id}`}
               onClick={() => onSingle(product.id)}
             >
               <FaSearch className="icon" />
