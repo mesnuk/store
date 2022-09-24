@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/store/static/css/main.9d147567.chunk.css",
-    "main.js": "/store/static/js/main.fc69af7a.chunk.js",
-    "main.js.map": "/store/static/js/main.fc69af7a.chunk.js.map",
-    "runtime-main.js": "/store/static/js/runtime-main.4e7d2a17.js",
-    "runtime-main.js.map": "/store/static/js/runtime-main.4e7d2a17.js.map",
-    "static/css/2.17e5ed98.chunk.css": "/store/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.2d0b23e6.chunk.js": "/store/static/js/2.2d0b23e6.chunk.js",
-    "static/js/2.2d0b23e6.chunk.js.map": "/store/static/js/2.2d0b23e6.chunk.js.map",
+    "main.css": "/store/static/css/main.f03c56c2.chunk.css",
+    "main.js": "/store/static/js/main.7387614c.chunk.js",
+    "main.js.map": "/store/static/js/main.7387614c.chunk.js.map",
+    "runtime-main.js": "/store/static/js/runtime-main.211836a8.js",
+    "runtime-main.js.map": "/store/static/js/runtime-main.211836a8.js.map",
+    "static/css/2.80f479d8.chunk.css": "/store/static/css/2.80f479d8.chunk.css",
+    "static/js/2.be7c31e1.chunk.js": "/store/static/js/2.be7c31e1.chunk.js",
+    "static/js/2.be7c31e1.chunk.js.map": "/store/static/js/2.be7c31e1.chunk.js.map",
     "index.html": "/store/index.html",
-    "precache-manifest.0191da44e329f2248d23920c61ae02af.js": "/store/precache-manifest.0191da44e329f2248d23920c61ae02af.js",
+    "precache-manifest.d358210035128c50438b584fde28efdf.js": "/store/precache-manifest.d358210035128c50438b584fde28efdf.js",
     "service-worker.js": "/store/service-worker.js",
-    "static/css/2.17e5ed98.chunk.css.map": "/store/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.9d147567.chunk.css.map": "/store/static/css/main.9d147567.chunk.css.map",
+    "static/css/2.80f479d8.chunk.css.map": "/store/static/css/2.80f479d8.chunk.css.map",
+    "static/css/main.f03c56c2.chunk.css.map": "/store/static/css/main.f03c56c2.chunk.css.map",
+    "static/js/2.be7c31e1.chunk.js.LICENSE.txt": "/store/static/js/2.be7c31e1.chunk.js.LICENSE.txt",
     "static/media/aboutBcg.jpeg": "/store/static/media/aboutBcg.7709c10e.jpeg",
     "static/media/contactBcg.jpeg": "/store/static/media/contactBcg.945afb99.jpeg",
     "static/media/defaultBcg.jpeg": "/store/static/media/defaultBcg.0819a816.jpeg",
@@ -23,10 +24,10 @@
     "static/media/storeBcg.jpeg": "/store/static/media/storeBcg.46143c2f.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4e7d2a17.js",
-    "static/css/2.17e5ed98.chunk.css",
-    "static/js/2.2d0b23e6.chunk.js",
-    "static/css/main.9d147567.chunk.css",
-    "static/js/main.fc69af7a.chunk.js"
+    "static/js/runtime-main.211836a8.js",
+    "static/css/2.80f479d8.chunk.css",
+    "static/js/2.be7c31e1.chunk.js",
+    "static/css/main.f03c56c2.chunk.css",
+    "static/js/main.7387614c.chunk.js"
   ]
 }
