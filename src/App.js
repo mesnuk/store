@@ -30,12 +30,12 @@ function App(props) {
       <Sidecart />
 
       <Switch>
-        <Route exact path="/" component={Home} />
-        <Route exact path="/about" component={About} />
-        <Route exact path="/contact" component={Contact} />
-        <Route exact path="/products" component={Products} />
-        <Route exact path="/products/:id" component={SingleProduct} />
-        <Route exact path="/cart" component={Cart} />
+        <Route exact path="/store" component={Home} />
+        <Route exact path="/store/about" component={About} />
+        <Route exact path="/store/contact" component={Contact} />
+        <Route exact path="/store/products" component={Products} />
+        <Route exact path="/store/products/:id" component={SingleProduct} />
+        <Route exact path="/store/cart" component={Cart} />
         <Route component={Default} />
       </Switch>
       <Footer />
