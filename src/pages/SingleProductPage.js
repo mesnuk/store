@@ -41,7 +41,7 @@ function SingleProductPage({ product, loading, addToCart, getStorageProduct }) {
               >
                 add to cart
               </button>
-              <Link to="/products" className="main-link m-2">
+              <Link to="/store/products" className="main-link m-2">
                 back to products
               </Link>
             </div>
