@@ -14,7 +14,7 @@ function Sidecart(props) {
             <div className="mt-3">
               <h6 className="text-uppercase">{item.title}</h6>
               <h6 className="text-title text-capitalize">
-                Amount: {item.count}
+                Amount: {item.count}!
               </h6>
             </div>
           </li>

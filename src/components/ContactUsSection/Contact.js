@@ -9,7 +9,7 @@ function Contact() {
           <Title title="contact us" />
           <form
             className="mt-5"
-            action="https://formspree.io/xnqnpqeg"
+            action=""
             method="POST"
           >
             <div className="form-group">
