@@ -12,7 +12,6 @@ import {
 function Products(props) {
   useEffect(() => {
     props.getProducts();
-    //eslint-disable-next-line
   }, []);
 
   return (

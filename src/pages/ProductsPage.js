@@ -1,11 +1,11 @@
 import React from "react";
 import Products from "../components/ProductsSection/Products";
-import productBcg from "../images/productsBcg.jpeg";
+import productBcg from "./../images/productsBcg.jpeg";
 import Hero from "../components/Hero";
 
 function ProductsPage() {
   return (
-    <React.Fragment>
+    <React.Fragment >
       <Hero img={productBcg} />
       <Products />
     </React.Fragment>

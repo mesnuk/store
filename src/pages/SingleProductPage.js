@@ -16,11 +16,11 @@ function SingleProductPage({ product, loading, addToCart, getStorageProduct }) {
       <Hero img={singleProductImg} title="single product" />
       {loading && <h1>product is loading...</h1>}
       <section className="py-5">
-        <div className="section-main">
+        <div className="section-main container">
           <div className="row">
             <div className="col-10 mx-auto col-sm-8 col-md-6 my-3">
               <img
-                src={`../${product.image}`}
+                src={`../../${product.image}`}
                 alt="single product"
                 className="img-fluid"
               />
